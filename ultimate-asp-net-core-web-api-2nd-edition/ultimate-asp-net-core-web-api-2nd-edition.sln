@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ultimate-asp-net-core-web-api-2nd-edition", "ultimate-asp-net-core-web-api-2nd-edition\ultimate-asp-net-core-web-api-2nd-edition.csproj", "{DAEAFC1C-5E4F-4817-BFAA-E1B5F0D9FD64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAEAFC1C-5E4F-4817-BFAA-E1B5F0D9FD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAEAFC1C-5E4F-4817-BFAA-E1B5F0D9FD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAEAFC1C-5E4F-4817-BFAA-E1B5F0D9FD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAEAFC1C-5E4F-4817-BFAA-E1B5F0D9FD64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
