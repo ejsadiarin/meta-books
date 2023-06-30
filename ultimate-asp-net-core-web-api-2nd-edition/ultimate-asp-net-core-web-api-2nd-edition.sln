@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ultimate-asp-net-core-web-api-2nd-edition", "ultimate-asp-net-core-web-api-2nd-edition\ultimate-asp-net-core-web-api-2nd-edition.csproj", "{DAEAFC1C-5E4F-4817-BFAA-E1B5F0D9FD64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyEmployees", "CompanyEmployees\CompanyEmployees.csproj", "{DAEAFC1C-5E4F-4817-BFAA-E1B5F0D9FD64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
