@@ -1,5 +1,9 @@
+using Contracts;
+using LoggerService;
+
 namespace ultimate_asp_net_core_web_api_2nd_edition.Extensions;
 
+// everything included here can be added directly to the Program.cs file
 public static class ServiceExtensions
 {
     public static void ConfigureCors(this IServiceCollection services) =>
@@ -19,5 +23,8 @@ public static class ServiceExtensions
             // default options --> if not initializing any properties in this options block
             // options (properties): AutomaticAuthentication, AuthenticationDisplayName, ForwardClientCertificate
         });
+
+    public static void ConfigureLoggerService(this IServiceCollection services) =>
+        services.AddSingleton<ILoggerManager, LoggerManager>();
 
 }
